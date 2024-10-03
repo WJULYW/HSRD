@@ -2,7 +2,7 @@
 Official code of IEEE JBHI ["Hierarchical Style-Aware Domain Generalization for Remote Physiological Measurement"](https://ieeexplore.ieee.org/abstract/document/10371379).
 
 <div style="text-align:center;">
-  <img src="Framework.png" style="width:70%;" />
+  <img src="Framework.png" style="width:100%;" />
 </div>
 
 ## Data Prepare
