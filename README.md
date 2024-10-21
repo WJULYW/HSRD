@@ -1,5 +1,5 @@
 # HSRD (Hierarchical Style-aware Representation Disentangling)
-Official code of IEEE JBHI ["Hierarchical Style-Aware Domain Generalization for Remote Physiological Measurement"](https://ieeexplore.ieee.org/abstract/document/10371379).
+Official code of IEEE JBHI 2024 ["Hierarchical Style-Aware Domain Generalization for Remote Physiological Measurement"](https://ieeexplore.ieee.org/abstract/document/10371379).
 
 <div style="text-align:center;">
   <img src="Framework.png" style="width:100%;" />
@@ -14,6 +14,7 @@ Before that, please get the permission to use the following datasets first:
 [**UBFC**](https://sites.google.com/view/ybenezeth/ubfcrppg), 
 [**PURE**](https://www.tu-ilmenau.de/en/university/departments/department-of-computer-science-and-automation/profile/institutes-and-groups/institute-of-computer-and-systems-engineering/group-for-neuroinformatics-and-cognitive-robotics/data-sets-code/pulse-rate-detection-dataset-pure).
 After getting STMaps, you can create a new './STMap' folder and put them into it.
+For the first time running, please adjust the hyperparameter 'reData' to 1, to generate the STMap index.
 
 ## Pre-trained Model
 In this work, we utilized the ResNet18 as the backbone network. You can download it directly from this [link](https://download.pytorch.org/models/resnet18-5c106cde.pth).
