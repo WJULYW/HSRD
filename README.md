@@ -6,7 +6,7 @@ Official code of IEEE JBHI 2024 ["Hierarchical Style-Aware Domain Generalization
 </div>
 
 ## Data Prepare
-You can refer to [link](https://github.com/WJULYW/HSRD) to obtain the processed STMaps.
+You can refer to [link](https://github.com/WJULYW/HSRD/tree/main/STMap) to obtain the processed STMaps.
 Before that, please get the permission to use the following datasets first:
 [**VIPL**](http://vipl.ict.ac.cn/en/resources/databases/201901/t20190104_34800.html),
 [**V4V**](https://competitions.codalab.org/competitions/31978),
